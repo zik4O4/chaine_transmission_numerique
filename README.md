@@ -14,7 +14,7 @@ Une application web interactive pour simuler une chaîne de transmission numéri
 
 ## 🚀 Démo en ligne
 
-[Accéder à l'application](https://chaine.streamlit.app/)
+[Accéder à l'application](https://chaine.streamlit.app)
 
 ## 🛠️ Installation locale
 
