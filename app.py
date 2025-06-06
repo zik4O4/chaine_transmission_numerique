@@ -147,7 +147,7 @@ def plot_nrz_signals():
         return None
 
 # Interface utilisateur
-st.title("📡 Simulation d'une Transmission Numérique d'Image")
+st.title("Simulation d'une Transmission Numérique d'Image")
 st.markdown("---")
 
 # Sidebar pour les paramètres
@@ -262,7 +262,7 @@ if st.session_state.original_array is not None:
                 st.error(f"Erreur lors de la préparation du téléchargement: {e}")
 
 else:
-    st.info("👆 Veuillez charger une image dans la barre latérale pour commencer.")
+    st.info(" Veuillez charger une image dans la barre latérale pour commencer.")
     
     # Affichage d'une image d'exemple
     st.markdown("---")
