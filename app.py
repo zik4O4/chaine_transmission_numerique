@@ -8,7 +8,7 @@ import io
 # Configuration de la page
 st.set_page_config(
     page_title="Chaîne de Transmission d'Image",
-    page_icon="📡",
+    page_icon="ZY",
     layout="wide"
 )
 
@@ -175,7 +175,7 @@ filter_type = st.sidebar.selectbox(
 )
 
 # Bouton de simulation
-simulate_button = st.sidebar.button("🚀 Simuler la transmission", type="primary")
+simulate_button = st.sidebar.button(" Simuler la transmission", type="primary")
 
 # Interface principale
 if st.session_state.original_array is not None:
